@@ -69,9 +69,8 @@ gcc batalhaNaval.c -o batalhaNaval -lm
 
 ## 📚 Documentação do Desafio
 
-As instruções originais do desafio estão no arquivo:
-
-📄 INSTRUCOES_DESAFIO.md
+Para consultar as instruções completas e os requisitos do desafio, acesse:  
+📄 **[INSTRUCOES_DESAFIO.md](https://github.com/maisareis/desafio-batalha-naval-maisareis/blob/main/INSTRUCOES_DESAFIO.md)**
 
 ## 👨‍💻 Autor
 
